@@ -11,65 +11,57 @@ The ShopEasy Dashboard transforms raw data into a visually engaging report that 
 
 This project was built using:
 
-📊 Power BI Desktop – Main data visualization and report platform
+• 📊 Power BI Desktop – Main data visualization and report platform
 
-📂 Power Query – Data transformation and cleaning
+• 📂 Power Query – Data transformation and cleaning
 
-🧮 DAX (Data Analysis Expressions) – Calculated measures and KPIs
+• 🧮 DAX (Data Analysis Expressions) – Calculated measures and KPIs
 
-🗄️ SQL – Pre-processing and structuring the raw data
+• 🗄️ SQL – Pre-processing and structuring the raw data
 
-🐍 Python – Sentiment analysis of customer reviews
+• 🐍 Python – Sentiment analysis of customer reviews
 
-📝 Data Modeling – Relationships across sales, customers, and social data
+• 📝 Data Modeling – Relationships across sales, customers, and social data
 
-📁 File Formats – .pbix for the dashboard, .png for previews, .sql and .ipynb for code
+• 📁 File Formats – .pbix for the dashboard, .png for previews, .sql and .ipynb for code
 
-📂 Data Source
-
-Source: Kaggle – ShopEasy dataset.
-The dataset contains:
-
-Sales & order details
-
-Customer reviews and ratings
-
-Social media engagement metrics (views, clicks, likes)
-
-Time-based data for trend analysis
+📊 Data Source: Kaggle
 
 🌟 Features & Highlights
 
-Business Problem
-ShopEasy collected data from multiple sources (sales, reviews, social media) but lacked a consolidated, visual way to analyze performance, understand customer feedback, and connect engagement with conversions.
+• Business Problem:
+ShopEasy, an online retail business,is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns.Despite the increased investment in marketing, there is a decline in customer engagement and conversion rates.The return on investment isn't meeting the expectations.
 
-Goal of the Dashboard
+
+
+🎯 Goal of the Dashboard
+
 To deliver an interactive reporting tool that:
 
-Tracks sales conversions across products and months
+• Tracks sales conversions across products and months
 
-Analyzes customer feedback sentiment using NLP
+• Analyzes customer feedback sentiment using NLP
 
-Monitors social media engagement across platforms
+• Monitors social media engagement across platforms
 
-Provides actionable insights for sales, marketing, and product teams
+• Provides actionable insights for sales, marketing, and product teams
 
-Walkthrough of Key Visuals
+⛳ Walkthrough of Key Visuals
 
-Overview Page – KPIs for conversion rate, total reviews, social engagement, and average customer rating; monthly sales trends
+• Overview Page – KPIs for conversion rate, total reviews, social engagement, and average customer rating; monthly sales trends
 
-Conversion Details – Conversions broken down by product and time period
+• Conversion Details – Conversions broken down by product and time period
 
-Customer Review Details – Sentiment breakdown (Positive / Neutral / Negative), word cloud of frequent terms, rating distribution
+• Customer Review Details – Sentiment breakdown (Positive / Neutral / Negative), rating distribution
 
-Social Media Details – Engagement analysis (likes, clicks, views) by platform with CTR insights
+• Social Media Details – Engagement analysis (likes, clicks, views) by platform with CTR insights
 
-Business Impact & Insights
+💼 Business Impact & Insights
 
-Marketing Efficiency – Identified channels and months with strongest engagement → conversion impact
+• Marketing Efficiency – Identified channels and months with strongest engagement → conversion impact
 
-Customer Experience – Highlighted top positive & negative review themes for improvement
+• Customer Experience – Highlighted top positive & negative review themes for improvement
 
-Product Strategy – Flagged products with high engagement but low conversions for targeted action
+• Product Strategy – Flagged products with high engagement but low conversions for targeted action
 
-Decision Making – Gave stakeholders a one-stop interactive view of business performance
+• Decision Making – Gave stakeholders a one-stop interactive view of business performance
