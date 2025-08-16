@@ -32,7 +32,17 @@ This project was built using:
 • Business Problem:
 ShopEasy, an online retail business,is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns.Despite the increased investment in marketing, there is a decline in customer engagement and conversion rates.The return on investment isn't meeting the expectations.
 
+Key Questions
 
+• Which products and categories have the highest conversion rates?
+
+• How do sales and conversions vary across different months?
+
+• What is the overall customer sentiment from reviews?
+
+• How does social media engagement translate into conversions?
+
+• What patterns emerge when comparing sales performance with customer feedback trends?
 
 🎯 Goal of the Dashboard
 
