@@ -13,8 +13,6 @@ This project was built using:
 
 • 📊 Power BI Desktop – Main data visualization and report platform
 
-• 📂 Power Query – Data transformation and cleaning
-
 • 🧮 DAX (Data Analysis Expressions) – Calculated measures and KPIs
 
 • 🗄️ SQL – Pre-processing and structuring the raw data
