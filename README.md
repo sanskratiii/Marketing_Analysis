@@ -11,7 +11,7 @@ Preview
 
 Power BI file for interaction: https://github.com/sanskratiii/Marketing_Analysis/blob/main/ShopEasy%20Insights%20Dashboard.pbix
 
-PDF version: 
+PDF version: https://github.com/sanskratiii/Marketing_Analysis/blob/main/ShopEasy%20Insights%20Dashboard.pdf
 
 🛠 Tech Stack
 
