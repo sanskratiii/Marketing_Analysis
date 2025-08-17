@@ -7,11 +7,11 @@ An interactive Power BI dashboard that brings together sales conversions, custom
 
 The ShopEasy Dashboard transforms raw data into a visually engaging report that highlights sales performance, customer satisfaction, and marketing effectiveness. Designed for analysts, marketers, and decision makers, this dashboard makes it easy to monitor KPIs, explore customer sentiment, and identify growth opportunities.
 
-Preview
+📷 Preview
 
-Power BI file for interaction: https://github.com/sanskratiii/Marketing_Analysis/blob/main/ShopEasy%20Insights%20Dashboard.pbix
+Power BI file for interaction: [Insights Dashboard.pbix](https://github.com/sanskratiii/Marketing_Analysis/blob/main/ShopEasy%20Insights%20Dashboard.pbix)
 
-PDF version: https://github.com/sanskratiii/Marketing_Analysis/blob/main/ShopEasy%20Insights%20Dashboard.pdf
+PDF version: [Insights Dashboard.pdf](https://github.com/sanskratiii/Marketing_Analysis/blob/main/ShopEasy%20Insights%20Dashboard.pdf)
 
 🛠 Tech Stack
 
